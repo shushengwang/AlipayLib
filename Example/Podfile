@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlipayLib_Tests' do
+  pod 'AlipayLib', :path => '../'
+  
+  
+end
