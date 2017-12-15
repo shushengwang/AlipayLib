@@ -1,0 +1,6 @@
+framework module Pods_AlipayLib_Tests {
+  umbrella header "Pods-AlipayLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

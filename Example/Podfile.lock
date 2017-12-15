@@ -1,0 +1,16 @@
+PODS:
+  - AlipayLib (0.1.0)
+
+DEPENDENCIES:
+  - AlipayLib (from `../`)
+
+EXTERNAL SOURCES:
+  AlipayLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AlipayLib: f7f66b0a7cbb47d5ce082d1f68916400eee0951f
+
+PODFILE CHECKSUM: e319f51d50e38d92e0eb73b92566a7104179b18f
+
+COCOAPODS: 1.2.1
